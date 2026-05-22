@@ -17,6 +17,7 @@
 
 ### 1. Visual Studio 開発ゲーム
 Visual Studio環境で制作したゲームのソースコード一式です。
+**格納ディレクトリ:** `/iCG_YuyaTanigychi_SpaceConquest`
 
 ### 2. 展示用Touch Designer データ
 展示のシステム構築の際に作成した、Touch Designer データおよびスクリプトです。
