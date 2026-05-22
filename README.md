@@ -1,7 +1,5 @@
 # Portfolio_YuyaTaniguchi
 
-# Portfolio & Works
-
 私の制作実績および開発プロジェクトのソースコードを管理しているリポジトリです。
 就職活動における選考資料として公開しております。
 
@@ -19,14 +17,12 @@
 
 ### 1. Visual Studio 開発ゲーム
 Visual Studio環境で制作したゲームのソースコード一式です。
-*   **格納ディレクトリ:** `/Game-Project` （※実際のフォルダ名に合わせて変更してください）
 
 ### 2. 展示用Touch Designer データ
 展示のシステム構築の際に作成した、Touch Designer データおよびスクリプトです。
-*   **格納ディレクトリ:** `/Technical-Direction` （※実際のフォルダ名に合わせて変更してください）
 
 ---
 
 ## 📬 Contact
-*   GitHub: [あなたのユーザー名](https://github.com/iamyuyataniguchi0122)
+*   GitHub: [iamyuyataniguchi0122](https://github.com/iamyuyataniguchi0122)
 *   Email: 	yuya.taniguchi.0122@gmail.com
