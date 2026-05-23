@@ -4,7 +4,7 @@
 就職活動における選考資料として公開しております。
 
 ## 📄 ポートフォリオ（スライド資料）
-全体の作品概要、詳細なプロセス、およびデモ動画等をまとめたポートフォリオは、以下のリンク（OneDrive）よりご覧いただけます。
+全体の作品概要、使用ツール、および動画等をまとめたポートフォリオは、以下のリンク（OneDrive）よりご覧いただけます。
 
 *   **[ポートフォリオを見る（OneDriveリンク）](https://1drv.ms/f/c/55539daf9e10d8aa/IgCff7D4GC9HQaIRtKYeY5KiARJmFNil5H9ciiydHJ6HS_8?e=Gsqxtn)**
     *   ※ファイル形式：PowerPoint / PDF
